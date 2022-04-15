@@ -1,0 +1,56 @@
+/* index html */
+
+.contenedorTitulo{
+    min-height: 60vh;
+    background-color: whitesmoke;
+} 
+
+.tituloElden{
+    font-size: 5rem;
+}
+
+.contenedorTrailer{
+    min-height: 80vh;
+    background-color: whitesmoke;
+}
+
+.subtitulo{
+    background-color: rgb(148, 144, 144);
+} 
+
+.pagFooter{
+    background-color:rgb(151, 140, 140);
+}
+
+.pagFooter div h2, .pagFooter div h3{
+    font-size: 1.5rem;
+    margin: 0.3rem;
+}
+
+/* lore html */
+
+.contenedorLore1, .contenedorLore2{
+    margin: 1rem;
+}
+
+.containerGeneral{
+    background-color:whitesmoke;
+}
+
+/* clases html */
+
+.containerClases1 , .containerClases2{
+    margin: 2rem;
+}
+
+/* html titulos similares */
+
+.contenedorCarrucel{
+    padding: 0;
+}
+
+/* html soporte */
+
+.contenedorSoporte{
+    padding: 0;
+}
